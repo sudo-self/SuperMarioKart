@@ -1,8 +1,8 @@
 {
-  "packageId": "app.vercel.supermariokart.twa",
-  "host": "supermariokart.vercel.app",
-  "name": "MarioKart",
-  "launcherName": "SMK",
+  "packageId": "com.jessejesse.bucket.twa",
+  "host": "mariokart.jessejesse.com",
+  "name": "mariokart",
+  "launcherName": "Rand0m",
   "display": "standalone",
   "themeColor": "#000000",
   "themeColorDark": "#000000",
@@ -13,7 +13,7 @@
   "backgroundColor": "#333333",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://bucket.jessejesse.com/icon-512.png",
+  "iconUrl": "https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/sudo-self/Downloads/SuperMarioKart-main/android.keystore",
